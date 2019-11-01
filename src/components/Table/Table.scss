@@ -1,0 +1,13 @@
+.table {
+  &__link {
+    color: #000;
+    border: none;
+    -webkit-appearance: none;
+    padding: 2px;
+  }
+
+  &__link:hover {
+    color: #0056b3;
+    text-decoration: none;
+  }
+}
